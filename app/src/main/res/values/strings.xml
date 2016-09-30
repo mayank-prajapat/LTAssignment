@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="id_label">ID  :</string>
+    <string name="rs_label">\u20B9</string>
+</resources>
